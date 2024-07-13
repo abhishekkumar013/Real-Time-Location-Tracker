@@ -14,8 +14,6 @@ A real-time location tracker application using Node.js, Express, Socket.io, and 
 
 Once the application is running, it will start tracking the user's location and displaying it on the map. Users' locations will be updated in real-time as they move.
 
-## Project Structure
-
 
 ## Screenshots
 
