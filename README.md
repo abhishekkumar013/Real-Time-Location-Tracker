@@ -19,10 +19,10 @@ Once the application is running, it will start tracking the user's location and 
 
 ## Screenshots
 
-![Map View](images/map-view.png)
+![Map View](images/RTLT1.png)
 *Map view showing user locations.*
 
-![User Location](images/user-location.png)
+![User Location](images/RTLT2.png)
 *User's location marked on the map.*
 
 ## Built With
